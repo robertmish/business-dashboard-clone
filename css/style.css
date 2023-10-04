@@ -1,0 +1,256 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+margin: 0;
+
+}
+
+.desktop_container {
+    background-color: #f1f1fc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sidebar {width: 20%;border-right: 1px solid #fff;height: 100vh;padding-top: 30px;}
+
+.brand_box {display: flex;justify-content: start;margin-left: 20px;}
+.brand_image {
+
+}
+
+.brand_image img {
+    height: 73px;
+}
+.brand_text {
+
+}
+.sidebar_menu {margin-left: 20px;margin-top: 105px;}
+.menu_item {display: flex;justify-content: flex-start;margin-bottom: 15px;}
+.menu_icon {}
+
+.menu_icon img {
+    height: 26px;
+    margin-right: 10px;
+}
+.menu_link_name {font-size: 20px;font-weight: 600;}
+
+
+.dashboard {width: 60%;height: 100vh;padding-left: 20px;padding-right: 20px;}
+.section_title {
+
+}
+.section_heading {
+
+}
+.heading_icons {width: 123px;display: flex;justify-content: space-between;}
+.h_i_box {width: 33px;padding: 8px;border: 1px solid #d1d1f2;border-radius: 8px;display: flex;align-items: center;height: 33px;}
+
+.h_i_box img {
+    width: 21px;
+    margin-left: 5px;
+    opacity: 0.8;
+}
+
+.stats_labels {
+
+
+}
+.label_widget {/* width: 250px; *//* height: 80px; *//* background: #454ec8; */display: flex;justify-content: space-around;}
+.widget_text {width: 250px;height: 91px;background: #454ec8;border-radius: 10px;}
+.label_name {font-weight: 600;color: #fff;margin-bottom: 10px;margin: 10px;}
+.label_number {margin-left: 10px;color: #a7acf0;}
+
+.marketplace_parent {display: flex;justify-content: space-between;}
+.marketplace_left {
+
+}
+.market_top {background: #fff;border-radius: 10px;}
+.market_text {
+
+}
+.market_title {
+
+}
+.market_desc {
+
+}
+.market_data {
+
+}
+.data_circle {
+
+}
+.start_button {
+
+}
+.market_bottom {background: #fff;margin-top: 20px;border-radius: 10px;}
+
+.market_text {
+
+}
+.market_title {
+
+}
+.finance_amount {
+
+}
+.amount_date {
+
+}
+.market_data {
+
+}
+.analytics {
+
+}
+.row {
+
+}
+
+
+.marketplace_upgrade {background: #fff;border-radius: 10px;}
+.up_title {
+
+}
+.upgrade_image {
+
+}
+.upgrade_image img {
+    width: 100px;
+}
+.upgrade_price {
+
+}
+.upgrade_policy {
+
+}
+.section_title {display: flex;justify-content: space-between;align-items: center;}
+.section_heading {font-size: 27px;font-weight: 600;}
+.see_all_text {
+
+}
+.data_table {
+
+}
+
+table {
+
+}
+
+table tr {
+
+}
+
+
+.summary {
+width: 20%;
+height: 100vh;
+}
+
+
+.balance_box {
+
+}
+.balance_summary {
+
+}
+.your_balance_label {
+
+}
+.balance_amount {
+
+}
+.balance_movement {display: flex;justify-content: space-around;}
+.balance_mov {display: flex;align-items: center;}
+
+.balance_mov img {
+    height: 20px;
+    margin-right: 10px;
+}
+.more_buttons {
+
+}
+.more_btn {
+
+}
+.plus_button {
+
+}
+
+.activity_box {
+
+}
+.act_left {
+
+}
+.act_item {
+
+}
+.a_i_img {
+
+}
+.a_i_img img {
+    height: 20px;
+}
+.act_data {
+
+}
+.data_title {
+
+}
+.data_time {
+
+}
+
+.act_right {
+
+    
+}
+
+.act_amount {
+
+}
+.section_description {
+
+}
+
+.color_widgets {
+
+}
+.c_widget {
+
+}
+.c_w_icon {
+
+}
+
+
+.c_w_icon img {
+    height: 20px;
+}
+
+
+.c_w_label {
+
+}
+
+
+.u_number {
+
+}
+
+.c_w_label:before {
+content:"Before content";
+}
+
+
+.c_w_label:after {
+    content:"later";
+    }
+    
+
